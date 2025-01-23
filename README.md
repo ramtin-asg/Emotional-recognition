@@ -33,3 +33,6 @@ In the field of robotics and human-robot interaction, this topic requires addres
 In this project, a proposed model inspired by the Xception architecture aimed to first achieve facial recognition and subsequently classify emotions into seven categories based on general ethical philosophy criteria. The use of the FER dataset was instrumental in realizing this goal by providing high diversity and accurate labeling.
 This model achieved an accuracy of approximately 67% in the ImageNet challenge, earning global recognition. By increasing the parameters, the project improved accuracy to about 71%, demonstrating better precision and higher efficiency for this architecture.
 Therefore, it can be concluded that leveraging complex neural network models for emotion recognition, alongside optimization, is highly beneficial. This is particularly significant in human-robot interaction and marketing domains.
+![Screenshot (121)](https://github.com/user-attachments/assets/3e1f82bf-35d5-4ae1-b2d9-27ee7f9c9467)
+
+
